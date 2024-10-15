@@ -2,7 +2,7 @@
 # iNotebook App
 
 Visit Demo: https://my-notes-book.netlify.app/
-Note: The backend is currently not hosted therefore the demo might not work
+- Note: The backend is currently not hosted therefore the demo might not work
 
 
 iNotebook is a full-stack MERN application that allows users to securely create, view, update, and delete notes. The app features user authentication using JSON Web Tokens (JWT), allowing users to register, log in, and manage their notes.
